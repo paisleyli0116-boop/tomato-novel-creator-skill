@@ -1,0 +1,6 @@
+interface:
+  display_name: "番茄网文创作顾问"
+  short_description: "面向番茄平台商业逻辑的网文构思、推演与整本小说创作助手"
+  default_prompt: "请用 $tomato-novel-creator 帮我把这个故事灵感推演成符合番茄平台商业逻辑的小说方案。"
+policy:
+  allow_implicit_invocation: true
